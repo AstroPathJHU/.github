@@ -1,1 +1,1 @@
-AstroPath 
+This project unites [Astro]nomy and [Path]ology concepts, emphasizing spatial biology to advance cancer immunotherapy research. We develop tools aimed at uncovering novel biomarkers and new biological mechanisms.
